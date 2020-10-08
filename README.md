@@ -79,22 +79,22 @@ Inicio Aventura Gráfica (Pantalla 0)
                 1. Las Moiras (Pantalla 13)
                 2. Al Centauro (Pantalla 14)
     
-    Pantalla 13: 
+  Pantalla 13: 
     Descripción: Las Moirias con fondo oscuro
     Historia: Ves a las Moiras y cortan el hilo de tu vida.  
     Acción: El usuario debe tocar la tijera para continuar.                
                      
-    Pantalla 14: 
+  Pantalla 14: 
     Descripción: Centauro con calle urbana
     Historia: Te enfrentas al Centauro y te dice "Tranquilo, puedes continuar"  
     Acción: El usuario debe tocar la pantalla para continuar. 
     
-    Pantalla 15: 
+ Pantalla 15: 
     Descripción: Profesora Dodds con fondo oscuro
     Historia: La profesora Dodds es una furia   
     Acción: El usuario debe tocar la furia para continuar.
     
-    Pantalla 16: 
+  Pantalla 16: 
     Descripción: Casa de Percy
     Historia: Vuelves a tu casa luego de un exhaustivo día en el museo.  
     Acción: El usuario debe tocar la habitación siguiente para continuar.
